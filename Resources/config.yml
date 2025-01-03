@@ -1,0 +1,11 @@
+# Configuration for Plugin
+
+# Internal
+ConfigVer: 0.1
+# Do Not Change Anything Internal
+
+
+# External
+Prefix: "[Archevex Lifesteal]"
+# # Messages:
+NoPerm: "{prefix} {red} Error! You Lack Permission to do this Action!"
