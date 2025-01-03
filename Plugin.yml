@@ -1,0 +1,5 @@
+name: ArchevexEssentials
+version: 1.0
+main: com.ArchevexEssentials.Core
+api-version: 0.1
+description: essentials for Archevex
